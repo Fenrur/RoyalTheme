@@ -1,20 +1,20 @@
 <scheme name="RoyalTheme" version="142" parent_scheme="Darcula">
-  <option name="FONT_SCALE" value="1.0" />
+  <option name="FONT_SCALE" value="1.25" />
   <metaInfo>
     <property name="created">2017-10-28T13:40:26</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.2.5.0.0</property>
-    <property name="modified">2017-10-28T13:40:42</property>
+    <property name="modified">2017-10-28T22:13:38</property>
     <property name="originalScheme">Tinacious</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.05" />
   <font>
     <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
-    <option name="EDITOR_FONT_SIZE" value="15" />
+    <option name="EDITOR_FONT_SIZE" value="19" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Monospaced" />
-    <option name="EDITOR_FONT_SIZE" value="15" />
+    <option name="EDITOR_FONT_SIZE" value="19" />
   </font>
   <colors>
     <option name="CARET_ROW_COLOR" value="252533" />
@@ -50,7 +50,6 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="CSS.COLOR" baseAttributes="CSS.IDENT" />
     <option name="CSS.FUNCTION">
       <value>
         <option name="FOREGROUND" value="bfff" />
@@ -533,7 +532,6 @@
         <option name="FOREGROUND" value="d364" />
       </value>
     </option>
-    <option name="SASS_COMMENT" baseAttributes="CSS.COMMENT" />
     <option name="SASS_STRING">
       <value>
         <option name="FOREGROUND" value="ffcc66" />
@@ -554,7 +552,7 @@
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ffcc66" />
-        <option name="FONT_TYPE" value="2" />
+        <option name="FONT_TYPE" value="3" />
         <option name="ERROR_STRIPE_COLOR" value="977ab" />
       </value>
     </option>
